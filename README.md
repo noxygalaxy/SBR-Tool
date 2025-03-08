@@ -33,8 +33,5 @@ Install .exe file from [Releases](https://github.com/noxygalaxy/SBR-Tool/release
 ## Configuration
 There is no configuration for this app yet..
 
-## Logging
-All detected password changes will be logged in `password_changes.log` with timestamps.
-
 ## Contributing
 Feel free to fork this repository and submit pull requests with improvements or new features :3
